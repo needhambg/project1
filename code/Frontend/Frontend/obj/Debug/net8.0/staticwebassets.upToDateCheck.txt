@@ -1,0 +1,10 @@
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png
+wwwroot\images\buster_sword.png
+wwwroot\images\menu_cursor.png
+wwwroot\images\phoenix_down.png
+wwwroot\images\poison.png
+wwwroot\images\shinra_logo.png
+wwwroot\images\shinra_logo_white.png

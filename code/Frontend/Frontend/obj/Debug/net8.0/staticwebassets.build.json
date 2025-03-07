@@ -1,0 +1,1258 @@
+{
+  "Version": 1,
+  "Hash": "oHHjpA6n4aOOUf7wYFUVmKEwxEHeWR/uHgd0fzyGUgs=",
+  "Source": "Frontend",
+  "BasePath": "_content/Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Frontend\\wwwroot",
+      "Source": "Frontend",
+      "ContentRoot": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Frontend.styles.css",
+      "SourceId": "Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "Frontend#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "a4wc964li4",
+      "Integrity": "ZtHGh1LzKXv3x9AU4626/UiA8Kyq9oA2ewHPDeLQ/po=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Frontend.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
+      "SourceId": "Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "Frontend#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "a4wc964li4",
+      "Integrity": "ZtHGh1LzKXv3x9AU4626/UiA8Kyq9oA2ewHPDeLQ/po=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\app.css",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fdrem8wc12",
+      "Integrity": "7Ycm/KKnPp2rXEdCjtKOY9n3kB7YcmqFUZKYSIFMfCU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\favicon.png",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ki1sg4585",
+      "Integrity": "yo+XyXRV6+Xlhh+BZsgHh5YcLzuBJq3VDHYjk56zcEc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\buster_sword.png",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "images/buster_sword#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8aj64t160e",
+      "Integrity": "4LBzPxFtRyflu8qtAu96e0Gt1bm7AQz8dJ70orePmek=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\buster_sword.png"
+    },
+    {
+      "Identity": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\menu_cursor.png",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "images/menu_cursor#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3lxhyeh602",
+      "Integrity": "R67Wxo/9CK8qYziq/Ol4MLMemOgNJ9wNgCd+jSnAz1U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\menu_cursor.png"
+    },
+    {
+      "Identity": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\phoenix_down.png",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "images/phoenix_down#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rgw2pv8ilh",
+      "Integrity": "JVoxCZq4DT6T3ZctygTQYHZZH83+qx/93m2xjmNSVmw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\phoenix_down.png"
+    },
+    {
+      "Identity": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\poison.png",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "images/poison#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "klwwwc1x3i",
+      "Integrity": "+HJkdvhQrl6Y1aVmPLPJ7se/TvmBe5tSNPINioNw5lk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\poison.png"
+    },
+    {
+      "Identity": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\shinra_logo.png",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "images/shinra_logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ki1sg4585",
+      "Integrity": "yo+XyXRV6+Xlhh+BZsgHh5YcLzuBJq3VDHYjk56zcEc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shinra_logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\shinra_logo_white.png",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "images/shinra_logo_white#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rkos74fdhf",
+      "Integrity": "a5JK1Rq7Qd0CwLNChB04lH9GHXfObMCQGYmaFMM4w1M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shinra_logo_white.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Ycm/KKnPp2rXEdCjtKOY9n3kB7YcmqFUZKYSIFMfCU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Ycm/KKnPp2rXEdCjtKOY9n3kB7YcmqFUZKYSIFMfCU="
+        }
+      ]
+    },
+    {
+      "Route": "app.fdrem8wc12.css",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Ycm/KKnPp2rXEdCjtKOY9n3kB7YcmqFUZKYSIFMfCU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fdrem8wc12"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Ycm/KKnPp2rXEdCjtKOY9n3kB7YcmqFUZKYSIFMfCU="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.6ki1sg4585.png",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yo+XyXRV6+Xlhh+BZsgHh5YcLzuBJq3VDHYjk56zcEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ki1sg4585"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yo+XyXRV6+Xlhh+BZsgHh5YcLzuBJq3VDHYjk56zcEc="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yo+XyXRV6+Xlhh+BZsgHh5YcLzuBJq3VDHYjk56zcEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yo+XyXRV6+Xlhh+BZsgHh5YcLzuBJq3VDHYjk56zcEc="
+        }
+      ]
+    },
+    {
+      "Route": "Frontend.a4wc964li4.bundle.scp.css",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZtHGh1LzKXv3x9AU4626/UiA8Kyq9oA2ewHPDeLQ/po=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 03:05:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a4wc964li4"
+        },
+        {
+          "Name": "label",
+          "Value": "Frontend.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZtHGh1LzKXv3x9AU4626/UiA8Kyq9oA2ewHPDeLQ/po="
+        }
+      ]
+    },
+    {
+      "Route": "Frontend.a4wc964li4.styles.css",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Frontend.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZtHGh1LzKXv3x9AU4626/UiA8Kyq9oA2ewHPDeLQ/po=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 03:05:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a4wc964li4"
+        },
+        {
+          "Name": "label",
+          "Value": "Frontend.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZtHGh1LzKXv3x9AU4626/UiA8Kyq9oA2ewHPDeLQ/po="
+        }
+      ]
+    },
+    {
+      "Route": "Frontend.bundle.scp.css",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZtHGh1LzKXv3x9AU4626/UiA8Kyq9oA2ewHPDeLQ/po=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 03:05:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZtHGh1LzKXv3x9AU4626/UiA8Kyq9oA2ewHPDeLQ/po="
+        }
+      ]
+    },
+    {
+      "Route": "Frontend.styles.css",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Frontend.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZtHGh1LzKXv3x9AU4626/UiA8Kyq9oA2ewHPDeLQ/po=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 03:05:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZtHGh1LzKXv3x9AU4626/UiA8Kyq9oA2ewHPDeLQ/po="
+        }
+      ]
+    },
+    {
+      "Route": "images/buster_sword.8aj64t160e.png",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\buster_sword.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4LBzPxFtRyflu8qtAu96e0Gt1bm7AQz8dJ70orePmek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8aj64t160e"
+        },
+        {
+          "Name": "label",
+          "Value": "images/buster_sword.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4LBzPxFtRyflu8qtAu96e0Gt1bm7AQz8dJ70orePmek="
+        }
+      ]
+    },
+    {
+      "Route": "images/buster_sword.png",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\buster_sword.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4LBzPxFtRyflu8qtAu96e0Gt1bm7AQz8dJ70orePmek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4LBzPxFtRyflu8qtAu96e0Gt1bm7AQz8dJ70orePmek="
+        }
+      ]
+    },
+    {
+      "Route": "images/menu_cursor.3lxhyeh602.png",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\menu_cursor.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R67Wxo/9CK8qYziq/Ol4MLMemOgNJ9wNgCd+jSnAz1U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3lxhyeh602"
+        },
+        {
+          "Name": "label",
+          "Value": "images/menu_cursor.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R67Wxo/9CK8qYziq/Ol4MLMemOgNJ9wNgCd+jSnAz1U="
+        }
+      ]
+    },
+    {
+      "Route": "images/menu_cursor.png",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\menu_cursor.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R67Wxo/9CK8qYziq/Ol4MLMemOgNJ9wNgCd+jSnAz1U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R67Wxo/9CK8qYziq/Ol4MLMemOgNJ9wNgCd+jSnAz1U="
+        }
+      ]
+    },
+    {
+      "Route": "images/phoenix_down.png",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\phoenix_down.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JVoxCZq4DT6T3ZctygTQYHZZH83+qx/93m2xjmNSVmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JVoxCZq4DT6T3ZctygTQYHZZH83+qx/93m2xjmNSVmw="
+        }
+      ]
+    },
+    {
+      "Route": "images/phoenix_down.rgw2pv8ilh.png",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\phoenix_down.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JVoxCZq4DT6T3ZctygTQYHZZH83+qx/93m2xjmNSVmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rgw2pv8ilh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/phoenix_down.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JVoxCZq4DT6T3ZctygTQYHZZH83+qx/93m2xjmNSVmw="
+        }
+      ]
+    },
+    {
+      "Route": "images/poison.klwwwc1x3i.png",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\poison.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4806"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+HJkdvhQrl6Y1aVmPLPJ7se/TvmBe5tSNPINioNw5lk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "klwwwc1x3i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/poison.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+HJkdvhQrl6Y1aVmPLPJ7se/TvmBe5tSNPINioNw5lk="
+        }
+      ]
+    },
+    {
+      "Route": "images/poison.png",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\poison.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4806"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+HJkdvhQrl6Y1aVmPLPJ7se/TvmBe5tSNPINioNw5lk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+HJkdvhQrl6Y1aVmPLPJ7se/TvmBe5tSNPINioNw5lk="
+        }
+      ]
+    },
+    {
+      "Route": "images/shinra_logo.6ki1sg4585.png",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\shinra_logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yo+XyXRV6+Xlhh+BZsgHh5YcLzuBJq3VDHYjk56zcEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ki1sg4585"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shinra_logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yo+XyXRV6+Xlhh+BZsgHh5YcLzuBJq3VDHYjk56zcEc="
+        }
+      ]
+    },
+    {
+      "Route": "images/shinra_logo.png",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\shinra_logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yo+XyXRV6+Xlhh+BZsgHh5YcLzuBJq3VDHYjk56zcEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yo+XyXRV6+Xlhh+BZsgHh5YcLzuBJq3VDHYjk56zcEc="
+        }
+      ]
+    },
+    {
+      "Route": "images/shinra_logo_white.png",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\shinra_logo_white.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a5JK1Rq7Qd0CwLNChB04lH9GHXfObMCQGYmaFMM4w1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a5JK1Rq7Qd0CwLNChB04lH9GHXfObMCQGYmaFMM4w1M="
+        }
+      ]
+    },
+    {
+      "Route": "images/shinra_logo_white.rkos74fdhf.png",
+      "AssetFile": "C:\\Users\\bgnee\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\wwwroot\\images\\shinra_logo_white.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a5JK1Rq7Qd0CwLNChB04lH9GHXfObMCQGYmaFMM4w1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rkos74fdhf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shinra_logo_white.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a5JK1Rq7Qd0CwLNChB04lH9GHXfObMCQGYmaFMM4w1M="
+        }
+      ]
+    }
+  ]
+}
