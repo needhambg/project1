@@ -15,7 +15,7 @@ Base.metadata.create_all(bind=engine)
 #Factory For Generating Sessions
 session_factory = sessionmaker(bind=engine)
 #Create A Single Session
-session = session_factory
+session = session_factory()
 
 app = FastAPI()
 
@@ -23,7 +23,7 @@ app = FastAPI()
 @app.get("/users/")
 async def get_users():
     try:
-        users = session.query(Users).filter(Users.username=="Cloud").one()
+        users = session.query(Users).filter().all()
         return users
     except:
         raise HTTPException(404, "Item not found")
