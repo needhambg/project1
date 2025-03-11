@@ -1,7 +1,7 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Depends
 
 from sqlalchemy import create_engine, select
-from sqlalchemy.orm import sessionmaker
+from sqlalchemy.orm import Session, sessionmaker
 
 from db_models import Base, Users, Posts
 from api_models import BaseModel, UsersModel,PostsModel
@@ -20,28 +20,41 @@ session = session_factory
 app = FastAPI()
 
 #Get All Users
-@app.get("/users/{username}")
-async def get_users(username:str):
+@app.get("/users/")
+async def get_users():
     try:
-        user = session.query(Users).filter(Users.username == username).one()
+        users = session.query(Users).filter(Users.username=="Cloud").one()
+        return users
     except:
         raise HTTPException(404, "Item not found")
-    return user
+
 #Get User By Name 
-#@app.get("/users/")
+#@app.get("/users/{username}")
+#async def get_user(username:str):
+#    try:
+#        userreq = session.execute(select(Users).where(Users.username == username)).one()
+#    except:
+#        raise HTTPException(404, "Item Not Found")    
+#    return userreq
+
 #Edit User (Put)
+#Update here
 
 #Patch User - Admin Only
 
 #Delete User
 
 #Get All Posts
+#@app.get("/posts/")
 
 #Get User By Id
+#@app.get("/users/{user_id}")
 
 #Get Post By User
+#@app.get("/posts/{user_id}")
 
 #Patch Post - Like
+#Update Here, Updating Posts Likes Value
 
 #Patch Post - Dislike
 
@@ -50,5 +63,6 @@ async def get_users(username:str):
 #Create User (Post)
 
 #Create Post (Post)
-
+#@app.post("/posts/")
+#def async create_post()
 #Delete Post
