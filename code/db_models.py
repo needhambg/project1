@@ -16,3 +16,4 @@ class Posts(Base):
     user_id = Column(Integer)
     title = Column(String)
     post_text = Column(String)
+    likes = Column(Integer)

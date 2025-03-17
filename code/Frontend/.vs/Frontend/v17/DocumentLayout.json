@@ -11,20 +11,20 @@
       "RelativeMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|solutionrelative:frontend\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|c:\\users\\bgnee\\onedrive\\documents\\github\\project1\\code\\frontend\\frontend\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|solutionrelative:frontend\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|c:\\users\\bgnee\\onedrive\\documents\\github\\project1\\code\\frontend\\frontend\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|solutionrelative:frontend\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|c:\\users\\bgnee\\onedrive\\documents\\github\\project1\\code\\frontend\\frontend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|solutionrelative:frontend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|c:\\users\\bgnee\\onedrive\\documents\\github\\project1\\code\\frontend\\frontend\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|solutionrelative:frontend\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|c:\\users\\bgnee\\onedrive\\documents\\github\\project1\\code\\frontend\\frontend\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|solutionrelative:frontend\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|c:\\users\\bgnee\\onedrive\\documents\\github\\project1\\code\\frontend\\frontend\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|solutionrelative:frontend\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,10 +47,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
             },
             {
               "$type": "Bookmark",
@@ -78,20 +74,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "Frontend\\Program.cs",
+              "ToolTip": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Program.cs",
+              "RelativeToolTip": "Frontend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:47:12.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "APIService.cs",
               "DocumentMoniker": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Services\\APIService.cs",
               "RelativeDocumentMoniker": "Frontend\\Services\\APIService.cs",
               "ToolTip": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Services\\APIService.cs",
               "RelativeToolTip": "Frontend\\Services\\APIService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T03:15:11.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Models\\User.cs",
               "RelativeDocumentMoniker": "Frontend\\Models\\User.cs",
@@ -104,20 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Program.cs",
-              "RelativeDocumentMoniker": "Frontend\\Program.cs",
-              "ToolTip": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Program.cs",
-              "RelativeToolTip": "Frontend\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T02:47:12.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Components\\App.razor",
               "RelativeDocumentMoniker": "Frontend\\Components\\App.razor",
@@ -130,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Frontend\\Components\\_Imports.razor",
@@ -143,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Models\\Post.cs",
               "RelativeDocumentMoniker": "Frontend\\Models\\Post.cs",
@@ -151,7 +147,8 @@
               "RelativeToolTip": "Frontend\\Models\\Post.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T17:38:36.457Z"
+              "WhenOpened": "2025-02-25T17:38:36.457Z",
+              "EditorCaption": ""
             }
           ]
         }

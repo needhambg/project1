@@ -19,6 +19,7 @@ session = session_factory()
 
 app = FastAPI()
 
+
 #Get All Users
 @app.get("/users/")
 async def get_users():
@@ -29,26 +30,46 @@ async def get_users():
         raise HTTPException(404, "Item not found")
 
 #Get User By Name 
-#@app.get("/users/{username}")
-#async def get_user(username:str):
-#    try:
-#        userreq = session.execute(select(Users).where(Users.username == username)).one()
-#    except:
-#        raise HTTPException(404, "Item Not Found")    
-#    return userreq
+@app.get("/users/{username}")
+async def get_user(username:str):
+    try:
+        userreq = session.query(Users).filter(Users.username == username).first()
+        user = Users(**userreq)
+        return user
+    except:
+        raise HTTPException(404, "Item Not Found")    
 
-#Edit User (Put)
+#Edit User (Patch)
 #Update here
 
 #Patch User - Admin Only
+#@app.patch("/users/{id}") 
+#async def update_user(name:str):
+#    try:
+#        results = session.query(Users).filter(Users).update({"name":name})
+#        return results
+#    except:
+#        print
 
 #Delete User
 
 #Get All Posts
-#@app.get("/posts/")
+@app.get("/posts/")
+async def get_posts():
+    try:
+        posts = session.query(Posts).filter().all()
+        return posts
+    except:
+        raise HTTPException(404, "Item Not Found")
 
 #Get User By Id
-#@app.get("/users/{user_id}")
+#@app.get("/users/{id}")
+#async def get_user(id:int):
+#    try:
+#        userreq = session.query(Users).filter(Users.id == id).all()
+#        return userreq
+#    except:
+#        raise HTTPException(404, "Item Not Found")
 
 #Get Post By User
 #@app.get("/posts/{user_id}")
@@ -61,8 +82,10 @@ async def get_users():
 #Edit Post (Put)
 
 #Create User (Post)
+#@app.post("/users/")
 
 #Create Post (Post)
 #@app.post("/posts/")
+
 #def async create_post()
 #Delete Post
