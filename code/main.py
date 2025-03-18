@@ -34,8 +34,7 @@ async def get_users():
 async def get_user(username:str):
     try:
         userreq = session.query(Users).filter(Users.username == username).first()
-        user = Users(**userreq)
-        return user
+        return userreq
     except:
         raise HTTPException(404, "Item Not Found")    
 
