@@ -30,17 +30,17 @@ async def get_users():
         raise HTTPException(404, "Item not found")
 
 #Get User By Name 
-@app.get("/users/{username}")
-async def get_user(username:str):
+@app.get("/users/")
+async def get_user(name:str):
     try:
-        userreq = session.query(Users).filter(Users.username == username).first()
+        userreq = session.query(Users).filter(Users.username == name).all()
         return userreq
     except:
         raise HTTPException(404, "Item Not Found")    
 
 #Edit User (Patch)
 #Update here
-@app.patch("/users/{username}")
+@app.patch("/users/")
 async def update_user(username:str, image_url:str):
     try:
         user = session.query(Users).filter(Users.username == username).first()
@@ -123,16 +123,15 @@ async def decrementpostlikes(id:int):
 @app.put("/posts/{id}")
 async def update_post(id:int, title:str, post_text:str):
     try:
-        post = session.query(Posts).filter(Posts.id == id).first()
-        post.title = title
-        post.post_text = post_text
-        session.commit()
-        return post
+        if session.query(Posts).filter(Posts.id == id).first():
+            session.query(Posts).filter(Posts.id == id).update({"title":title, "post_text":post_text})
+            session.commit()
+            return
     except:
         raise HTTPException(404, "Item Not Found")
 
 #Create User (Post)
-@app.post("/users/")
+@app.post("/users/{username}")
 async def create_user(username:str, image_url:str):
     try:
         #if Users does not contain the username, create a new user
@@ -142,17 +141,23 @@ async def create_user(username:str, image_url:str):
             new_user = Users(username=username, image_url=image_url, is_admin=False)
             session.add(new_user)
             session.commit()
+            return new_user
     except:
         raise HTTPException(500, "Error Creating User")
+
 #Create Post (Post)
 @app.post("/posts/")
-async def create_post(id:int, user_id:str, title:str, post_text:str, likes:int):
+async def create_post(user_id:str, title:str, post_text:str, likes:int):
     try:
-        new_post = Posts(id, user_id, title, post_text, likes)
-        session.add(new_post)
-        session.commit()
+        if session.query(Posts).filter((Posts.user_id == user_id) & (Posts.title == title) ).first():
+            raise HTTPException(409, "Item Already Exists")
+        else:
+            new_post = Posts(user_id=user_id, title=title, post_text=post_text, likes=likes)
+            session.add(new_post)
+            session.commit()
+            return new_post
     except:
-        raise HTTPException(404, "Item Not Found")
+        raise HTTPException(500, "Internal Server Error")
 
 #Delete Post
 @app.delete("/posts/{id}")
