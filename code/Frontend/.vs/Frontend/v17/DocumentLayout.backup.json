@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|solutionrelative:frontend\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|c:\\users\\bgnee\\onedrive\\documents\\github\\project1\\code\\frontend\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|solutionrelative:frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|c:\\users\\bgnee\\onedrive\\documents\\github\\project1\\code\\frontend\\frontend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|solutionrelative:frontend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|c:\\users\\bgnee\\onedrive\\documents\\github\\project1\\code\\frontend\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|solutionrelative:frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B7BA951-8398-4269-ADD1-65A0BF2046CC}|Frontend\\Frontend.csproj|c:\\users\\bgnee\\onedrive\\documents\\github\\project1\\code\\frontend\\frontend\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,26 +74,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Program.cs",
-              "RelativeDocumentMoniker": "Frontend\\Program.cs",
-              "ToolTip": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Program.cs",
-              "RelativeToolTip": "Frontend\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T02:47:12.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "APIService.cs",
               "DocumentMoniker": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Services\\APIService.cs",
               "RelativeDocumentMoniker": "Frontend\\Services\\APIService.cs",
               "ToolTip": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Services\\APIService.cs",
               "RelativeToolTip": "Frontend\\Services\\APIService.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T03:15:11.759Z",
               "EditorCaption": ""
@@ -101,6 +88,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "Frontend\\Program.cs",
+              "ToolTip": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Program.cs",
+              "RelativeToolTip": "Frontend\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:47:12.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\bgnee\\OneDrive\\Documents\\GitHub\\project1\\code\\Frontend\\Frontend\\Models\\User.cs",
               "RelativeDocumentMoniker": "Frontend\\Models\\User.cs",
